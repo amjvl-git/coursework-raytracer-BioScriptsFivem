@@ -3,3 +3,5 @@
 # GAMR1530 Coursework 2023
 You are to build a ray tracer in JavaScript which uses the Phong Lighting model.
 This repo will be your submission.
+
+This is Jean-Luke Richardsons Assignment, It did not let me select my name from the pool of people.
